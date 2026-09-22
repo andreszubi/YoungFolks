@@ -9,8 +9,7 @@ for p in products:
     print("Title:", p["title"])
     print("Category:", p["category"])
     print("Price:", p["price"])
-    print("Rating:", p["rating"]["rate"])
-    print("Picture:", p["image"], "\n")
+
 
 
 #TODO: include the rate (not the count) of the product
