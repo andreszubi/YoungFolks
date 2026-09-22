@@ -31,4 +31,6 @@ pip install requests
 
 ```bash
 python main.py
+or
+python3 main.py
 ```
