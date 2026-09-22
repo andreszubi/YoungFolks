@@ -12,6 +12,7 @@ for p in products:
 
 
 
+
 #TODO: include the rate (not the count) of the product
 #TODO: include the price
 #TODO: include the picture of the product
